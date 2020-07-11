@@ -3,7 +3,7 @@
 1) You need to download node js from this website https://nodejs.org/en/download/ 
 
 2) After downloading install the Angular CLI, open a terminal window or CMD and run the following command: 
-     npm install -g @angular/cli
+ npm install -g @angular/cli
      
 3) The ng serve --open command launches the server and automatically opens your browser to http://localhost:4200/.
 
