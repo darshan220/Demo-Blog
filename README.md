@@ -1,6 +1,6 @@
 # To Run this project you need to follow these steps:
 
-1) you need to download node js from this website https://nodejs.org/en/download/ 
+1) You need to download node js from this website https://nodejs.org/en/download/ 
 
 2) After downloading install the Angular CLI, open a terminal window or CMD and run the following command: 
      npm install -g @angular/cli
